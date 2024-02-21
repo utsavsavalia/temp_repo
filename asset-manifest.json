@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/utsavsavalia.github.io/static/css/main.bc22e447.css",
-    "main.js": "/utsavsavalia.github.io/static/js/main.dc133bbf.js",
-    "static/media/linkedin_logo.png": "/utsavsavalia.github.io/static/media/linkedin_logo.9a1a7f8162140e296345.png",
-    "index.html": "/utsavsavalia.github.io/index.html",
-    "main.bc22e447.css.map": "/utsavsavalia.github.io/static/css/main.bc22e447.css.map",
-    "main.dc133bbf.js.map": "/utsavsavalia.github.io/static/js/main.dc133bbf.js.map"
+    "main.css": "/static/css/main.bc22e447.css",
+    "main.js": "/static/js/main.a00b69ac.js",
+    "static/media/linkedin_logo.png": "/static/media/linkedin_logo.9a1a7f8162140e296345.png",
+    "index.html": "/index.html",
+    "main.bc22e447.css.map": "/static/css/main.bc22e447.css.map",
+    "main.a00b69ac.js.map": "/static/js/main.a00b69ac.js.map"
   },
   "entrypoints": [
     "static/css/main.bc22e447.css",
-    "static/js/main.dc133bbf.js"
+    "static/js/main.a00b69ac.js"
   ]
 }
