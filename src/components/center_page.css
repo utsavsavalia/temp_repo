@@ -1,0 +1,64 @@
+.center_div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    margin-left: 25%;
+    margin-right: 20%;
+    margin-top: 8%;
+    margin-bottom: 8%;
+}
+
+.Introduction{
+    font-size: 3rem;
+    color: rgb(120, 213, 213);
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+}
+
+.right_container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.intro h1 {
+    font-weight: bold;
+    font-size: 2px;
+    margin-bottom: 10px;
+}
+
+.profile {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.round_img {
+    width: 150%;
+    height: 150%;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+.social-icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 20%;
+}
+
+.social-icons img {
+    width: 10%;
+    height: 10%;
+    margin-left: 5%;
+}
+
+.social-icons:hover {
+    color: #f5f7f8; /* Highlight color on hover */
+    cursor: pointer;
+}

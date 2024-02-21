@@ -1,0 +1,56 @@
+.top {
+    width: 100vw;
+    height: 6rem;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    color: lightblue;
+    background-color: white;
+}
+
+.middle_section{
+  justify-content: center;
+}
+
+/* Aesthetic Header Box Container */
+.aesthetic-header-box {
+    background-color: black; /* Dark background color */
+    color: #ecf0f1; /* Light text color */
+    padding: 20px;
+    /* border-radius: 10px; Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle box shadow for depth */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  /* Left Section */
+  .left_section {
+    display: flex;
+    align-items: center;
+  }
+
+  /* middle Section */
+  .middle_section {
+    display: flex;
+    align-items: center;
+  }
+  
+  /* Right Section */
+  .right_section {
+    display: flex;
+    align-items: center;
+  }
+  
+  .right_section a {
+    color: #ecf0f1; /* Light text color for links in the right section */
+    text-decoration: none;
+    margin-left: 15px; /* Add some spacing between the links */
+    transition: color 0.3s ease; /* Smooth color transition on hover */
+  }
+  
+  .right_section a:hover {
+    color: #f5f7f8; /* Highlight color on hover */
+    cursor: pointer;
+  }
+  

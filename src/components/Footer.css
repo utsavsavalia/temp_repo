@@ -1,0 +1,10 @@
+.aesthetic-footer-box {
+    background-color: rgb(179, 83, 83); /* Dark background color */
+    color: #ecf0f1; /* Light text color */
+    padding: 20px;
+    /* border-radius: 10px; Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle box shadow for depth */
+    display: flex;
+    justify-content: center;
+    font-size: 2;
+  }
