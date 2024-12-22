@@ -19,7 +19,7 @@ const center_page = () => {
 
             <div class="right_container">
                 <div class = "img_div">
-                    <img className = "round_img" src = {self_image}></img>
+                    // <img className = "round_img" src = {self_image}></img>
                 </div>
 
                 <div class = "social-icons">
